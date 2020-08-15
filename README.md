@@ -15,7 +15,7 @@ const Hassan11196 = {
             
         }
         frontEnd: {
-            js: ["React", "Redux", "Angular", "RxJs", "Electron"],
+            js: ["React", "Gatsby", "Redux", "Angular", "RxJs", "Electron"],
             python: ["PyQt"]
         },
         mobileApp: ["Flutter"],
