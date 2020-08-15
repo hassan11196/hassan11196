@@ -42,9 +42,9 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-858948%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-11.1%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
