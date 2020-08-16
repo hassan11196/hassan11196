@@ -42,30 +42,30 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 850 Contributions in year 2020
+> 🏆 864 Contributions in the year 2020
  > 
-> 📦 Used 804.6 kB in GitHub's Storage 
+> 📦 805.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 65 Public repositories
  > 
-> 🔑 29 Owned Private Repositories 
+> 🔑 30 Private repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
-🌆 Daytime    210 commits    ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌃 Evening    299 commits    ████████░░░░░░░░░░░░░░░░░   34.17% 
-🌙 Night      233 commits    ██████░░░░░░░░░░░░░░░░░░░   26.63%
+🌞 Morning    133 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+🌆 Daytime    210 commits    ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+🌃 Evening    299 commits    ████████░░░░░░░░░░░░░░░░░   33.71% 
+🌙 Night      245 commits    ███████░░░░░░░░░░░░░░░░░░   27.62%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
 ```
