@@ -1,9 +1,8 @@
 Assalam-u-Alekum (Peace be upon you), Hello I'm M.Hassan Ahmed.
 
-
 ```javascript
 const Hassan11196 = {
-    pronouns: "He" | "Him",
+    pronouns: "He" || "Him",
     code: ["Python", "C/C++", "Javascript", "Typescript",  "Java", "Dart", "Go"],
     askMeAbout: ["AI", "Machine Learning", "Deep Learning", "NLP", "Web Dev"],
     technologies: {
@@ -13,7 +12,7 @@ const Hassan11196 = {
             python: ["Django", "Flask", "Fast-API"],
             js: ["node", "express"]
             
-        }
+        },
         frontEnd: {
             js: ["React", "Gatsby", "Redux", "Angular", "RxJs", "Electron"],
             python: ["PyQt"]
