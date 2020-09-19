@@ -43,7 +43,7 @@ const Hassan11196 = {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,001 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2020
  > 
 > 📦 932.8 kB Used in Github's Storage 
  > 
