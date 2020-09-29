@@ -43,15 +43,15 @@ const Hassan11196 = {
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 1,013 Contributions in the Year 2020
+> 🏆 1,014 Contributions in the Year 2020
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 70 Public Repositories
+> 📜 71 Public Repositories
  > 
-> 🔑 35 Private Repositories 
+> 🔑 34 Private Repositories 
 
 **I'm a Night 🦉** 
 
