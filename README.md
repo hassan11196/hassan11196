@@ -23,7 +23,7 @@ const Hassan11196 = {
         misc: ["Qt", "Firebase", "GraphQl"]
     },
     architecture: ["Multi-Tenant Applications", "Mirco-Services", "JAM Stack", "PWA", "SPA"],
-
+    contact: ["hassan11196 at hotmail.com"]
 };
 ```
 
