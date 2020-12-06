@@ -48,9 +48,9 @@ const Hassan11196 = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 80 Public Repositories
+> 📜 80 Public Repositories 
  > 
-> 🔑 45 Private Repositories 
+> 🔑 45 Private Repositories  
 
 **I'm a Night 🦉** 
 
