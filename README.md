@@ -2,8 +2,8 @@ Assalam-u-Alekum (Peace be upon you), Hello I'm M.Hassan Ahmed.
 
 ```javascript
 const Hassan11196 = {
-    code: ["Python", "C/C++", "Javascript", "Typescript",  "Java", "Dart", "Go"],
-    askMeAbout: ["AI", "Machine Learning", "Deep Learning", "NLP", "Web Dev"],
+    code: ["Python", "R", "C/C++", "Javascript", "Typescript",  "Java", "Dart", "Go"],
+    askMeAbout: ["AI", "Data Science", "Deep Learning", "NLP", "Web Dev", "Algo & DS", "Time Series"],
     technologies: {
         deepLearning: ["Tensorflow", "Keras"],
         machineLearning: ["sciket", "pandas", "numpy", "scipy", "spacy", "Ocatve", "Jupyter"],
@@ -17,8 +17,8 @@ const Hassan11196 = {
             python: ["PyQt"]
         },
         mobileApp: ["Flutter"],
-        devOps: ["Heroku", "GCP", "Azure", "Netlify", "AWS", "Docker🐳", "Travis", "GitHub Actions"],
-        databases: ["PostgreSQL", "mongo", "MySql", "sqlite"],
+        devOps: ["Heroku", "GCP", "Azure", "Netlify", "Vercel", "AWS", "Docker🐳", "Travis", "GitHub Actions"],
+        databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "ElasticSearch"],
         misc: ["Qt", "Firebase", "GraphQl"]
     },
     architecture: ["Multi-Tenant Applications", "Mirco-Services", "JAM Stack", "PWA", "SPA"],
