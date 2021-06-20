@@ -17,7 +17,7 @@ const Hassan11196 = {
             python: ["PyQt"]
         },
         mobileApp: ["Flutter"],
-        devOps: ["Heroku", "GCP", "Azure", "Netlify", "Vercel", "AWS", "Docker🐳", "Travis", "GitHub Actions"],
+        devOps: ["Heroku", "GCP", "Azure", "Netlify", "Vercel", "AWS", "Docker🐳", "Travis", "GitHub Actions", "OpenShift"],
         databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "ElasticSearch"],
         misc: ["Qt", "Firebase", "GraphQl"]
     },
