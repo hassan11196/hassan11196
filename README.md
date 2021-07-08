@@ -6,7 +6,7 @@ const Hassan11196 = {
     askMeAbout: ["AI", "Data Science", "Deep Learning", "NLP", "Web Dev", "Algo & DS", "Time Series"],
     technologies: {
         deepLearning: ["Tensorflow", "Keras"],
-        machineLearning: ["sciket", "pandas", "numpy", "scipy", "spacy", "Ocatve", "Jupyter"],
+        machineLearning: ["sciket", "pandas", "numpy", "scipy", "spacy", "Octave", "Jupyter"],
         backEnd: {
             python: ["Django", "Flask", "Fast-API"],
             js: ["node", "express"]
