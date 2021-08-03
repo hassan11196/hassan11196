@@ -19,7 +19,7 @@ const Hassan11196 = {
         mobileApp: ["Flutter"],
         devOps: ["Heroku", "GCP", "Azure", "Netlify", "Vercel", "AWS", "Docker🐳", "Travis", "GitHub Actions", "OpenShift"],
         databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "ElasticSearch"],
-        misc: ["Qt", "Firebase", "GraphQl"]
+        misc: ["Qt", "Firebase", "GraphQl", "WebSockets"]
     },
     architecture: ["Multi-Tenant Applications", "Mirco-Services", "JAM Stack", "PWA", "SPA"],
     contact: ["hassan11196 at hotmail.com"]
