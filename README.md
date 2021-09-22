@@ -40,11 +40,11 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 507 Contributions in the Year 2021
  > 
-> 📦 1.2 MB Used in Github's Storage 
+> 📦 1.2 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -55,10 +55,10 @@ const Hassan11196 = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    137 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-🌆 Daytime    173 commits    ██████░░░░░░░░░░░░░░░░░░░   23.57% 
-🌃 Evening    229 commits    ███████░░░░░░░░░░░░░░░░░░   31.2% 
-🌙 Night      195 commits    ██████░░░░░░░░░░░░░░░░░░░   26.57%
+🌞 Morning    137 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+🌆 Daytime    172 commits    █████░░░░░░░░░░░░░░░░░░░░   23.47% 
+🌃 Evening    229 commits    ███████░░░░░░░░░░░░░░░░░░   31.24% 
+🌙 Night      195 commits    ██████░░░░░░░░░░░░░░░░░░░   26.6%
 
 ```
 
@@ -69,6 +69,6 @@ const Hassan11196 = {
 ```
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
