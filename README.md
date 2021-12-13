@@ -40,8 +40,6 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 543 Contributions in the Year 2021
@@ -57,10 +55,10 @@ const Hassan11196 = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
-🌆 Daytime    150 commits    ███████░░░░░░░░░░░░░░░░░░   27.88% 
-🌃 Evening    186 commits    ████████░░░░░░░░░░░░░░░░░   34.57% 
-🌙 Night      116 commits    █████░░░░░░░░░░░░░░░░░░░░   21.56%
+🌞 Morning    86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.17% 
+🌆 Daytime    145 commits    ██████░░░░░░░░░░░░░░░░░░░   27.26% 
+🌃 Evening    186 commits    ████████░░░░░░░░░░░░░░░░░   34.96% 
+🌙 Night      115 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62%
 
 ```
 
@@ -71,6 +69,6 @@ const Hassan11196 = {
 ```
 
 
- Last Updated on 10/12/2021
+ Last Updated on 13/12/2021
 <!--END_SECTION:waka-->
 
