@@ -3,9 +3,9 @@ Assalam-u-Alekum (Peace be upon you), Hello I'm M.Hassan Ahmed.
 ```javascript
 const Hassan11196 = {
     code: ["Python", "R", "C/C++", "Javascript", "Typescript",  "Java", "Dart", "Go"],
-    askMeAbout: ["AI", "Data Science", "Deep Learning", "NLP", "Web Dev", "Algo & DS", "Time Series"],
+    askMeAbout: ["Computer Vision", "AI", "Data Science", "Deep Learning", "NLP", "Web Dev", "Algo & DS", "Time Series", "MLOps"],
     technologies: {
-        deepLearning: ["Tensorflow", "Keras"],
+        deepLearning: ["PyTorch","Tensorflow", "Keras"],
         machineLearning: ["sciket", "pandas", "numpy", "scipy", "spacy", "Octave", "Jupyter"],
         backEnd: {
             python: ["Django", "Flask", "Fast-API"],
