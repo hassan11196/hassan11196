@@ -40,11 +40,9 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -57,10 +55,10 @@ const Hassan11196 = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
-🌆 Daytime    121 commits    ███████░░░░░░░░░░░░░░░░░░   28.14% 
-🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   36.51% 
-🌙 Night      83 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.3%
+🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+🌆 Daytime    122 commits    ███████░░░░░░░░░░░░░░░░░░   28.31% 
+🌃 Evening    157 commits    █████████░░░░░░░░░░░░░░░░   36.43% 
+🌙 Night      83 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26%
 
 ```
 
@@ -71,6 +69,6 @@ const Hassan11196 = {
 ```
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
