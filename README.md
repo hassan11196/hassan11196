@@ -40,17 +40,15 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2022
+> 🏆 4 Contributions in the Year 2022
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 100 Public Repositories 
+> 📜 101 Public Repositories 
  > 
 > 🔑 57 Private Repositories  
  > 
@@ -71,6 +69,6 @@ const Hassan11196 = {
 ```
 
 
- Last Updated on 12/03/2022 18:45:17 UTC
+ Last Updated on 15/03/2022 18:45:16 UTC
 <!--END_SECTION:waka-->
 
