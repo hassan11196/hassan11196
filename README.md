@@ -44,7 +44,7 @@ const Hassan11196 = {
 [![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,7 +70,7 @@ const Hassan11196 = {
 
 
 
- Last Updated on 04/09/2022 18:48:33 UTC
+ Last Updated on 04/09/2022 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 
