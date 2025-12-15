@@ -47,8 +47,5 @@ const Hassan11196 = {
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan11196) 
 
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hassan11196&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
