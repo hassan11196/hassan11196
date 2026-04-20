@@ -21,6 +21,9 @@ I build workflow management HPC tools for the CMS experiment at CERN. Recently, 
 | **CMS Workflow Management DevOps** | Operating and extending WMCore + Unified so CMS Monte Carlo and reconstruction workloads stay healthy across WLCG sites. → [WMCore](https://github.com/dmwm/WMCore) · [CMSProductionReprocessing](https://gitlab.cern.ch/CMSProductionReprocessing) |
 | **Archi — LLM Copilot for CMS Ops** | RAG platform built with MIT for CERN: SSO-authenticated ingestion, MCP-enabled knowledge access, ReAct agents, containerized sandbox execution. → [archi-physics/archi](https://github.com/archi-physics/archi) |
 | **ARGRAG — Argusa AI Challenge 2025 🥈** | Runner-Up at EPFL. Multi-modal RAG over complex enterprise document corpora: 15+ file formats, Vision AI, ChromaDB, sub-5s responses. → [Announcement](https://www.linkedin.com/posts/argusa_congratulations-to-the-winner-and-runner-activity-7392176758768435200-ToKJ) |
+| **CloudCanvasAI** | AI-powered document creation platform pairing Claude with a live `.docx`/`.pptx`/`.pdf`/`.xlsx` preview. React + FastAPI + E2B per-user sandboxes + Firebase auth. → [hassan11196/CloudCanvasAI](https://github.com/hassan11196/CloudCanvasAI) |
+| **LLM DevMate** | VSCode extension that streamlines pasting code context into LLMs — one-click copy, token-aware, works with OpenAI and more. → [hassan11196/llm-dev-mate](https://github.com/hassan11196/llm-dev-mate) |
+| **Gemini Alchemy** | Gemini-powered tool that turns abstract ideas into visually appealing mindmaps. FastAPI backend + Streamlit frontend. → [hassan11196/gemini-alchemy](https://github.com/hassan11196/gemini-alchemy) |
 
 ## 💻 Tech Stack
 
