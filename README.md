@@ -3,8 +3,6 @@
 **Full-Stack Engineer | End-to-End Data, AI, and Web Platforms**
 _Software Engineer at CERN_
 
-Most of my recent contributions live on CERN GitLab → [gitlab.cern.ch/ahmedmu](https://gitlab.cern.ch/ahmedmu)
-
 [hassanahmed.net](https://hassanahmed.net) · [GitHub](https://github.com/hassan11196) · [CERN GitLab](https://gitlab.cern.ch/ahmedmu) · [LinkedIn](https://linkedin.com/in/hassan11196) · [Google Scholar](https://scholar.google.com/citations?user=n0hS0rYAAAAJ)
 
 ## 👋 About Me
@@ -54,17 +52,6 @@ I build workflow management HPC tools for the CMS experiment at CERN. Recently, 
 - 🏅 **Top 10 Finalist, CERN Webfest 2021.**
 - 📜 **Certified Kubernetes Application Developer (CKAD).**
 
-## 🗣️ Ask Me About
-
-```javascript
-const askMeAbout = {
-  ai:      ["LLM", "RAG", "MCP", "ReAct agents", "Computer Vision"],
-  platform: ["Kubernetes", "ArgoCD", "Puppet", "OpenSearch", "Grafana"],
-  hpc:     ["CMS Workflow Management", "WMCore", "WLCG operations"],
-  stack:   ["FastAPI", "React", "Python", "TypeScript"],
-};
-```
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -84,7 +71,3 @@ _Note: stats cover public GitHub only — most day-job commits live on [CERN Git
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=n0hS0rYAAAAJ)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassan11196)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hassan11196)
-
----
-
-_Most recent contributions live on [CERN GitLab](https://gitlab.cern.ch/ahmedmu)._
