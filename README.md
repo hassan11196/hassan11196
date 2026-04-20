@@ -10,7 +10,7 @@ _Software Engineer at CERN, building AI & HPC tooling for the CMS experiment_
 
 I build workflow management HPC tools for the CMS experiment at CERN. Recently, I've focused on scaling WMCore operations, deploying operational dashboards, and building LLM tools like Archi. Previously, I built production ML systems end-to-end in computer vision and NLP domains at Retrocausal AI.
 
-- 🔭 **Currently:** operating and extending WMCore + Unified and the [P&R Dashboard](https://cmspnr.app.cern.ch/) for CMS production & reprocessing workflows across the WLCG.
+- 🔭 **Currently:** operating and extending WMCore + Unified and the [P&R Dashboard](https://cmspnr.app.cern.ch/) for CMS production & reprocessing workflows across the WLCG. Most commits live on [CERN GitLab](https://gitlab.cern.ch/ahmedmu)._
 - 🤖 **Building:** [Archi](https://github.com/archi-physics/archi) — an open-source RAG/LLM copilot for scientific and academic operations (MIT × CMS).
 - 🛠️ **Daily stack:** React, FastAPI, Kubernetes, ArgoCD, Puppet, OpenSearch.
 - 🎓 **Previously:** Research Engineer in CV/ML at Retrocausal (2021–2023); CERN openlab Summer Student (2021).
@@ -56,14 +56,6 @@ I build workflow management HPC tools for the CMS experiment at CERN. Recently, 
 - 🏅 **Top 10 Finalist, CERN Webfest 2021.**
 - 📜 **Certified Kubernetes Application Developer (CKAD).**
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan11196&show_icons=true&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan11196&layout=compact&hide_border=true" />
-</p>
-
-_Note: stats cover public GitHub only — most day-job commits live on [CERN GitLab](https://gitlab.cern.ch/ahmedmu)._
 
 ## 🌐 Socials
 
