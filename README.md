@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Hassan Ahmed 👋
+# Hi, I'm Muhammad Hassan Ahmed
 
 **AI Engineer & Full-Stack Builder. LLM Agents, RAG Systems, and Production ML**
 
