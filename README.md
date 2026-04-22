@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hassan Ahmed 👋
 
-**AI Engineer & Full-Stack Builder — LLM Agents, RAG Systems, and Production ML**
+**AI Engineer & Full-Stack Builder. LLM Agents, RAG Systems, and Production ML**
 
 _Software Engineer at CERN, building AI & HPC tooling for the CMS experiment_
 
