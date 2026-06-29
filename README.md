@@ -4,7 +4,7 @@
 
 _Software Engineer at CERN, building AI & HPC tooling for the CMS experiment_
 
-[hassanahmed.net](https://hassanahmed.net) · [GitHub](https://github.com/hassan11196) · [CERN GitLab](https://gitlab.cern.ch/ahmedmu) · [LinkedIn](https://linkedin.com/in/hassan11196) · [Google Scholar](https://scholar.google.com/citations?user=n0hS0rYAAAAJ)
+[hassanahmed.net](https://hassanahmed.net) · [GitHub](https://github.com/hassan11196) · [CERN GitLab](https://gitlab.cern.ch/ahmedmu) · [LinkedIn](https://linkedin.com/in/hassan11196) · [Google Scholar](https://scholar.google.com/citations?user=n0hS0rYAAAAJ)  · [DevPost](https://devpost.com/hassan11196)
 
 ## 👋 About Me
 
