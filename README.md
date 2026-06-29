@@ -15,7 +15,7 @@ I build workflow management HPC tools for the CMS experiment at CERN. Recently, 
 - 🛠️ **Daily stack:** React, FastAPI, Kubernetes, ArgoCD, Puppet, OpenSearch.
 - 🎓 **Previously:** Research Engineer in CV/ML at Retrocausal (2021–2023); CERN openlab Summer Student (2021).
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it is |
 | --- | --- |
